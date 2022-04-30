@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Twitter Follow](https://img.shields.io/badge/Linkedin-Profile-blue)](https://www.linkedin.com/in/raghavi-srinivasan-747b96172/)
 
-<p> <img src="https://komarev.com/ghpvc/?username=Raghavi94&label=Profile Views&color=green&style=plastic" alt="Profile Views" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=Akash-Manikandan&label=Profile Views&color=green&style=plastic" alt="Profile Views" /> </p>
 
 ## I'm just trying to master the best of what others have already figured out!
 
