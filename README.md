@@ -17,22 +17,14 @@ Here are some ideas to get you started:
 ## Hi there, This is Akash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 
-[![Twitter Follow](https://img.shields.io/badge/Linkedin-Profile-blue)](https://www.linkedin.com/in/raghavi-srinivasan-747b96172/)
+[![Twitter Follow](https://img.shields.io/badge/Linkedin-Profile-blue)](https://www.linkedin.com/in/akash-m-ba9765202)
 
 <p> <img src="https://komarev.com/ghpvc/?username=Akash-Manikandan&label=Profile Views&color=green&style=plastic" alt="Profile Views" /> </p>
 
 ## I'm just trying to master the best of what others have already figured out!
 
-- 🔭 I’m currently pursuing my final year BE ECE at Sri Venkateswara College of Engineering,Sriperumbudur.
+- 🔭 I’m currently pursuing my Second year B.Tech at Sri Venkateswara College of Engineering,Sriperumbudur.
 - 🌱 I’m currently learning Web Development. 
-- 👯 I’m looking to collaborate with like minded people and build something valuable to the community.
-- 🥅 2022 Goals: To be skilled in Front End Web Development and looking for good opportunities to showcase my talent. 
-
-
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Raghavi94&count_private=true&show_icons=true" height="170px">
-</p>
 
 
 
@@ -77,19 +69,8 @@ Here are some ideas to get you started:
 
 ---
 
-[twitter]: https://twitter.com/RAGHAVISRINIVA7
-[instagram]: https://www.instagram.com/raghavi_94/?hl=en
-[linkedin]: https://www.linkedin.com/in/raghavi-srinivasan-747b96172/
-[hackerrank]:https://www.hackerrank.com/raghaveni50
-[website]:https://raghavi-srinivasan.netlify.app/
-[geeksforgeeks]:https://auth.geeksforgeeks.org/user/raghaveni50/practice/
-[leetcode]:https://leetcode.com/Raghavi_01/
+[twitter]: https://twitter.com/Akash2003M
+[linkedin]: https://www.linkedin.com/in/akash-m-ba9765202/
 
 
-```python
-while life:
-    eat(food)
-    sleep(dreams)
-    code(ideas)   
-    
-```  
+
