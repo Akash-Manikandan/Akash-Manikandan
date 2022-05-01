@@ -40,6 +40,23 @@ Here are some ideas to get you started:
 <br />
 
 
+### Favourites ❤️:
+
+
+[![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)][Vivaldi]
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)][Spotify]
+[![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)][GAssistant]
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)][Ethereum]
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)][MongoDB]
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)][MySQL]
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)][Supabase]
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)][Vercel]
+[![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)][DuckDuckGo]
+
+
+<br />
+
+
 ### Languages and Tools:
 
 
@@ -71,3 +88,12 @@ Here are some ideas to get you started:
 [PY]: https://www.python.org/
 [TF]: https://www.tensorflow.org/
 [SOLIDITY]: https://soliditylang.org/
+[Vivaldi]: https://vivaldi.com/
+[GAssistant]: https://assistant.google.com/
+[Ethereum]: https://ethereum.org/en/
+[MongoDB]: https://www.mongodb.com/
+[MySQL]: https://www.mysql.com/
+[Supabase]: https://supabase.com/
+[Vercel]: https://vercel.com/
+[Spotify]: https://open.spotify.com/
+[DuckDuckGo]: https://duckduckgo.com/
