@@ -56,6 +56,16 @@ Here are some ideas to get you started:
 
 <br />
 
+### OS:
+
+[![Elementary OS](https://img.shields.io/badge/-elementary%20OS-black?style=for-the-badge&logo=elementary&logoColor=white)][Elementary OS]
+[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)][Linux Mint]
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)][Ubuntu]
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)][Android]
+
+
+<br/>
+
 
 ### Languages and Tools:
 
@@ -97,3 +107,7 @@ Here are some ideas to get you started:
 [Vercel]: https://vercel.com/
 [Spotify]: https://open.spotify.com/
 [DuckDuckGo]: https://duckduckgo.com/
+[Elementary OS]: https://elementary.io/
+[Linux Mint]: https://www.linuxmint.com/
+[Ubuntu]: https://ubuntu.com/
+[Android]: https://www.android.com/intl/en_in/
