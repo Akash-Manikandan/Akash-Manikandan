@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)][VS]
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -62,6 +62,6 @@ Here are some ideas to get you started:
 
 [twitter]: https://twitter.com/Akash2003M
 [linkedin]: https://www.linkedin.com/in/akash-m-ba9765202/
-
+[VS]: https://code.visualstudio.com/
 
 
