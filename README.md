@@ -1,5 +1,4 @@
 
-
 <!--
 **Akash-Manikandan/Akash-Manikandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +22,7 @@ Here are some ideas to get you started:
 
 ## I'm just trying to master the best of what others have already figured out!
 
-- 🔭 I’m currently pursuing my Second year B.Tech at Sri Venkateswara College of Engineering,Sriperumbudur.
+- 🔭 I’m currently pursuing my second year B.Tech at Sri Venkateswara College of Engineering,Sriperumbudur.
 - 🌱 I’m currently learning Web Development. 
 
 <br />
@@ -91,6 +90,12 @@ Here are some ideas to get you started:
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)][TF]
 [![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)][SOLIDITY]
 
+<br />
+<div style="padding=30px">
+<img align="left" style="padding=30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" width="100px" height="100px" />
+<img align="left" style="padding=30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="100px" height="100px" />
+<img align="left" style="padding=30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="100px" height="100px" />
+</div>
 
 <br />
 <br />
@@ -122,3 +127,5 @@ Here are some ideas to get you started:
 [Ubuntu]: https://ubuntu.com/
 [Android]: https://www.android.com/intl/en_in/
 [Instagram]: https://www.instagram.com/user____name____unavailable/
+
+
