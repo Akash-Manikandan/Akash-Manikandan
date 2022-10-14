@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)][MongoDB]
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)][MySQL]
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)][Supabase]
+[![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)][prisma]
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)][Vercel]
 [![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)][DuckDuckGo]
 
@@ -138,3 +139,4 @@ Here are some ideas to get you started:
 [TS]: https://www.typescriptlang.org/
 [rust]: https://www.rust-lang.org/
 [MA]: https://manjaro.org/
+[prisma]: https://www.prisma.io/
