@@ -83,6 +83,7 @@ Here are some ideas to get you started:
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)][VS]
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)][Android Studio]
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)][rust]
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)][GCC]
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)][GCC]
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)][HTML]
@@ -135,4 +136,4 @@ Here are some ideas to get you started:
 [REACT]: https://reactjs.org/
 [NATIVE]: https://reactnative.dev/
 [TS]: https://www.typescriptlang.org/
-
+[rust]: https://www.rust-lang.org/
