@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][Instagram]
 
 
 
@@ -132,7 +131,6 @@ Here are some ideas to get you started:
 [Linux Mint]: https://www.linuxmint.com/
 [Ubuntu]: https://ubuntu.com/
 [Android]: https://www.android.com/intl/en_in/
-[Instagram]: https://www.instagram.com/user____name____unavailable/
 [EXPO]: https://expo.dev/
 [NEST]: https://nestjs.com/
 [SVELTE]: https://svelte.dev/
