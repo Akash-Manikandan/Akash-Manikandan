@@ -73,6 +73,7 @@ Here are some ideas to get you started:
 [![Elementary OS](https://img.shields.io/badge/-elementary%20OS-black?style=for-the-badge&logo=elementary&logoColor=white)][Elementary OS]
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)][Linux Mint]
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)][Ubuntu]
+[![Fedora]](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)][Fedora]
 [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)][MA]
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)][Android]
 
@@ -140,3 +141,4 @@ Here are some ideas to get you started:
 [rust]: https://www.rust-lang.org/
 [MA]: https://manjaro.org/
 [prisma]: https://www.prisma.io/
+[Fedora]: https://getfedora.org/
