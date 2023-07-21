@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## I'm just trying to master the best of what others have already figured out!
 
-- 🔭 I’m currently pursuing my second year B.Tech at Sri Venkateswara College of Engineering,Sriperumbudur.
+- 🔭 I’m currently pursuing my final year B.Tech at Sri Venkateswara College of Engineering,Sriperumbudur.
 - 🌱 I’m currently learning Rust, Web Development and BlockChain. 
 
 <br />
