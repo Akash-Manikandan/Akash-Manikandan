@@ -47,8 +47,10 @@ Here are some ideas to get you started:
 
 
 [![Akash's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Manikandan&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-![Akash's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Manikandan&theme=blue-green&layout=compact)
+<!--![Akash's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Manikandan&theme=blue-green&layout=compact)-->
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash-Manikandan&show_icons=true&theme=synthwave)
+<br /><br />
+<a href="http://www.github.com/Akash-Manikandan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-Manikandan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <br />
 
