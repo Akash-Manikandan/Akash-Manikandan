@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Follow](https://img.shields.io/badge/Linkedin-Profile-blue)](https://www.linkedin.com/in/akash-m-ba9765202)
 
-<p> <img src="https://komarev.com/ghpvc/?username=Akash-Manikandan&label=Profile Views&color=green&style=plastic" alt="Profile Views" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=Akash-Manikandan&color=blue" alt="Profile Views" /> </p>
 
 ## I'm just trying to master the best of what others have already figured out!
 
