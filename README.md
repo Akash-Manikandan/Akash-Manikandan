@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash-Manikandan&show_icons=true&theme=synthwave)
 <br /><br />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Akash-Manikandan)](https://www.github.com/Akash-Manikandan)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Akash-Manikandan&theme=modern-lilac2&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 <br />
 <hr />
 <br />
