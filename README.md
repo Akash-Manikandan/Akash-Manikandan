@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 ## It's me, hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 
-[![Linkedin Follow](https://img.shields.io/badge/Linkedin-Profile-blue)](https://www.linkedin.com/in/akash-m-ba9765202)
+### About Me: 
+<ul>
+  <li>Eager to leverage extensive technical expertise in both front-end and back-end development to drive collaborative success and deliver innovative solutions.</li>
+  <li>Proven ability to work effectively in team environments, adapt to new technologies, and solve complex problems efficiently.</li>
+  <li>Committed to continuous learning and staying current with industry trends to ensure the delivery of high-quality software products.</li>
+</ul>
 
-<p> <img src="https://komarev.com/ghpvc/?username=Akash-Manikandan&color=blue" alt="Profile Views" /> </p>
-
-## I'm just trying to master the best of what others have already figured out!
-
-- 🔭 I’m currently pursuing my final year B.Tech at Sri Venkateswara College of Engineering,Sriperumbudur.
-<!-- - 🌱 I’m currently learning Rust, Web Development and BlockChain. -->
 
 <br />
 
@@ -31,20 +30,10 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<hr />
 <br />
 
-### Connect with me:
-
-
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-
-<br />
-<br />
-
+### Stats:
 
 [![Akash's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Manikandan&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 <!--![Akash's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Manikandan&theme=blue-green&layout=compact)-->
@@ -52,6 +41,8 @@ Here are some ideas to get you started:
 <br /><br />
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Akash-Manikandan)](https://www.github.com/Akash-Manikandan)
+<br />
+<hr />
 <br />
 
 ### Favourites ❤️:
@@ -147,3 +138,10 @@ Here are some ideas to get you started:
 [prisma]: https://www.prisma.io/
 [Fedora]: https://getfedora.org/
 [Flutter]: https://flutter.dev/
+
+
+
+<br />
+<br />
+<p> <img src="https://komarev.com/ghpvc/?username=Akash-Manikandan&color=blue" alt="Profile Views" /> </p>
+
