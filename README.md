@@ -23,25 +23,14 @@ Here are some ideas to get you started:
   <li>Committed to continuous learning and staying current with industry trends to ensure the delivery of high-quality software products.</li>
 </ul>
 
-
 <br />
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<hr />
 <br />
 
-### Stats:
-
-[![Akash's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Manikandan&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-<!--![Akash's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Manikandan&theme=blue-green&layout=compact)-->
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash-Manikandan&show_icons=true&theme=synthwave)
-<br /><br />
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Akash-Manikandan&theme=modern-lilac2&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-<br />
 <hr />
 <br />
 
@@ -99,6 +88,23 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+
+
+<hr />
+<br />
+
+### Stats:
+
+[![Akash's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Manikandan&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<!--![Akash's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Manikandan&theme=blue-green&layout=compact)-->
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash-Manikandan&show_icons=true&theme=synthwave)
+<br /><br />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Akash-Manikandan&theme=modern-lilac2&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+<br />
+<br />
+
+
 
 ---
 
