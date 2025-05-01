@@ -76,6 +76,7 @@ Here are some ideas to get you started:
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)][CSS]
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)][JS]
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)][PY]
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)][Go]
 [![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)][SOLIDITY]
 [![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)][EXPO]
 [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)][NEST]
@@ -117,6 +118,7 @@ Here are some ideas to get you started:
 [CSS]: https://www.w3.org/Style/CSS/Overview.en.html
 [JS]: https://www.javascript.com/
 [PY]: https://www.python.org/
+[Go]: https://go.dev/
 [TF]: https://www.tensorflow.org/
 [SOLIDITY]: https://soliditylang.org/
 [Vivaldi]: https://vivaldi.com/
